@@ -1,6 +1,6 @@
 # Multi Themed Music Player - README
 
-![Music Player Screenshot](music-purple.png)
+![Music Player Screenshot](./images/music-purple.png)
 
 A sleek, modern music player with theme switching functionality built with HTML, CSS, and JavaScript.
 
