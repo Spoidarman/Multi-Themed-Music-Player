@@ -1,6 +1,6 @@
 # Multi Themed Music Player - README
 
-![Music Player Screenshot](screenshot.png)
+![Music Player Screenshot](./music-purple.png)
 
 A sleek, modern music player with theme switching functionality built with HTML, CSS, and JavaScript.
 
@@ -121,19 +121,21 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
 
-Your Name - [@yourtwitter](https://twitter.com/yourtwitter) - your.email@example.com
 
-Project Link: [https://github.com/your-username/music-player](https://github.com/your-username/music-player)
+Project Link: [https://github.com/spoidarman/Multi-Themed-Music-Player]([https://github.com/spoidarman/Multi-Themed-Music-Player])
+
+## Open here
+Project Link: [OPEN]([https://multitheme-musicplayer-moinak.netlify.app/])
 
 ## Screenshots
 
 ### Default Theme
-![Default Theme](screenshot-default.png)
+![Default Theme](./music-purple.png)
 
 ### Dark Theme
-![Dark Theme](screenshot-dark.png)
+![Dark Theme](./music_player.png)
 
 ### Nature Theme
-![Nature Theme](screenshot-nature.png)
+![Nature Theme](./music-nature.png)
 
 ---
