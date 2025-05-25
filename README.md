@@ -130,12 +130,12 @@ Project Link: [OPEN]([https://multitheme-musicplayer-moinak.netlify.app/])
 ## Screenshots
 
 ### Default Theme
-![Default Theme](./music-purple.png)
+![Default Theme](./images/music-purple.png)
 
 ### Dark Theme
-![Dark Theme](./music_player.png)
+![Dark Theme](./images/music_player.png)
 
 ### Nature Theme
-![Nature Theme](./music-nature.png)
+![Nature Theme](./images/music-nature.png)
 
 ---
